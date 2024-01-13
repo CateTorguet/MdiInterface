@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\bin\Debug\Práctica5.exe.config
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\bin\Debug\Práctica5.exe
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\bin\Debug\Práctica5.pdb
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\obj\Debug\Práctica5.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\obj\Debug\Práctica5.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\obj\Debug\Práctica5.AcercaDe.resources
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\obj\Debug\Práctica5.Properties.Resources.resources
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\obj\Debug\Práctica5.VisorImágenes.resources
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\obj\Debug\Práctica5.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\obj\Debug\Práctica5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\obj\Debug\Práctica5.exe
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\obj\Debug\Práctica5.pdb
+C:\Users\HP\Desktop\P.Visual\P5\Práctica5\obj\Debug\Práctica5.VentanaHija.resources

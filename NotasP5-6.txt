@@ -1,0 +1,33 @@
+Propiedades PictureBox
+
+-SizeMode: TopLeft, ModificarTamañoPB, Zoom proporcional
+
+Propiedades Clase Image
+.RotateFlip
+.FromImage
+.DrawString
+
+Tool Cerrar
+Image=NUll
+
+Abrir Archivo
+OpenFileDialog
+dlg.Filter
+
+Copiar
+ClipBoard.SetImage
+
+Alejar/Acercar
+Zoom But PB ajustado
+int newancho = convert.ToInt32(WIdth * 1,25)
+-Proproción Ancho largo (Double) width/heieht
+
+Tamaño
+RealAutoSize    AjustadoZoom      
+
+Rotar 
+Aux = width
+Width = height
+height = widt 
+
+Hilos { Caso mover pestaña con barra de progreso completandose}
